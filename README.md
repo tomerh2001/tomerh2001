@@ -1,5 +1,6 @@
 # Tomer Horowitz
 Software engineer from israel. 
+
 interested in the field of machine learning, data science and math behind it.
 
 # Certifications:
