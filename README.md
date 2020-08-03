@@ -1,7 +1,12 @@
-# TensorFlow Developer Certification:
-<img src="https://api.accredible.com/v1/credential/generate_baked_badge?credential_id=21406580&key=null" width="75" height="75" > </img>
-  
-## A little bit about me:
-I am a software engineer by day and a student by night, I've been programming since I was 14, I started working for a company at 16 and started uni at 17. 
+# A little about me:
+My name is Tomer Horowitz and i'm a software engineer from israel, i've started working for a local software company when I was 16 and started attending uni at 17.
 
-I am mostly intrested in the field of machine learning and data science, I also enjoy writing libaries that others can use.
+# I am mostly intrested in: 
+1. Machine learning, data science and all the math behind it, certified in `TensorFlow` and `Keras` (you can see certification below).
+2. 
+
+# Projects worth checking:
+1. 
+
+# Certifications:
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/21406580" width="400" height="350" > </img>
