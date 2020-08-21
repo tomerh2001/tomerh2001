@@ -9,8 +9,9 @@ I am a certified `TensorFlow` developer (see certification below).
 3. Creatively design websites (I like following google's material design guidelines).
 
 ## Projects worth checking of mine:
-1. [PathManager](https://github.com/tomergt45/PathManager)
-2. [Addons](https://github.com/tomergt45/Addons)
+1. [GeneticFlow](https://github.com/tomergt45/GeneticFlow)
+2. [PathManager](https://github.com/tomergt45/PathManager)
+3. [Addons](https://github.com/tomergt45/Addons)
 
 ## Certifications:
 <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/21406580" width="400" height="350" > </img>
