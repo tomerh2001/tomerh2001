@@ -1,5 +1,5 @@
 ## A little about me:
-My name is Tomer Horowitz and i'm a software engineer from israel, i've started working for a local software company when I was 16 and started attending uni at 17.
+My name is Tomer Horowitz and i'm a software engineer from israel, i've started working for a local software company when I was 16 and started attending uni at 18.
 
 I am a certified `TensorFlow` developer (see certification below).
 
