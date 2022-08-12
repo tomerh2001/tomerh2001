@@ -13,6 +13,3 @@ I am a certified `TensorFlow` developer (see certification below).
 2. [MapleController](https://github.com/tomergt45/MapleController)
 3. [PathManager](https://github.com/tomergt45/PathManager)
 4. [Addons](https://github.com/tomergt45/Addons)
-
-## Certifications:
-<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/21406580" width="400" height="350" > </img>
