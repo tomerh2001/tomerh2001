@@ -8,7 +8,7 @@ I am a certified `TensorFlow` developer (see certification below).
 2. Creating libraries that others can use.
 3. Creatively design websites (I like following google's material design guidelines).
 
-## Projects worth checking of mine:
+## Some projects of mine:
 1. [GeneticFlow](https://github.com/tomergt45/GeneticFlow)
 2. [MapleController](https://github.com/tomergt45/MapleController)
 3. [PathManager](https://github.com/tomergt45/PathManager)
